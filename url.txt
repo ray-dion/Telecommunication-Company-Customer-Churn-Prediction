@@ -1,0 +1,2 @@
+Link Dataset: https://www.kaggle.com/datasets/kapturovalexander/customers-churned-in-telecom-services
+Link Deployment: https://huggingface.co/spaces/ray-dion/Milestones-2
