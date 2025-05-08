@@ -1,7 +1,7 @@
 # Telecommunication Company Customer Churn Prediction
 
 ## Repository Outline
-1. description.md - Penjelasan gambaran umum project
+1. README.md - Penjelasan gambaran umum project
 2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
 3. notebook_inference.ipynb - Notebook yang berisi hasil prediksi data inferens
 4. correlation_cal.py - File python yang berisi function perhitungan korelasi
