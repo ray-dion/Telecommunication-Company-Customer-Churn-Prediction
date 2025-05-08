@@ -1,4 +1,4 @@
-# Milestones Project 2
+# Telecommunication Company Customer Churn Prediction
 
 ## Repository Outline
 1. description.md - Penjelasan gambaran umum project
